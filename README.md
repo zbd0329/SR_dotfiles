@@ -4,7 +4,7 @@
 
 ```bash
 cd ~
-git clone git@github.com:johngrib/dotfiles.git
+git clone git@github.com:zbd0329/mydotfiles.git
 ln -s ~/dotfiles/.bash_profile
 ln -s ~/dotfiles/.bashrc
 
